@@ -1,0 +1,54 @@
+
+h1 {
+    color: blue;
+    margin-left: 2opx;
+    
+}
+.container
+{
+	width: 1200px;
+	height: 600px;
+	margin: auto;
+}
+.banner {
+	background-color: red;
+	text-align: center;    
+    height: 100px;
+    margin: auto;
+    border: 1px solid red;
+}
+
+.bodysection{
+ 	width:100%;
+    text-align:center;
+    height: 500px;
+}
+.left {
+    float:left;
+    width:200px;
+    background: #ff0000;
+    height: inherit;
+    background-color: green;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+.center {
+    display: inline-block;
+    margin:0 auto;
+    width:620px;
+    height: inherit;
+    
+	border: 3px solid green;
+	padding: 10px
+}
+
+.right {
+    float:right;
+    width:300px;
+    background: #0000ff;
+    height: inherit;
+    background-color: green;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
